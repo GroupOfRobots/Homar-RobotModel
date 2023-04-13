@@ -1,6 +1,6 @@
 Otwory w MainBracing:
 Na silniki i ich mocowanie są przenaczone śruby M2.5 wraz z nakrętkami, do mocowania baterii są przeznaczone 
-śruby M4 ze stożkowym łbem wraz z nakrętkami, do mocowania ballcasterów z tyłu są śruby M2 lub też śruby
+śruby M3 ze stożkowym łbem wraz z nakrętkami, do mocowania ballcasterów z tyłu są śruby M2 lub też śruby
 #2-56 o długości 7/16 cala (dołączone do ballcasterów, na etapie druku się nie przejmujecie). Pozostałe śruby 
 to M3 i taki jest też wymiar nakrętek, które należy włożyć w trakcie druku.
 
