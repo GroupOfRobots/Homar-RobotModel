@@ -9,7 +9,7 @@ Step and sldprt folders both contain a subfolder called "Non-print models" with 
 
 ## Screws you will need
 All holes are designed to accept screws and standoffs with the diameter of 3 mm. However, the head and length differs depending on the parts that need to be joined. To be specific, you will need:
-- **For the roof**: 4 &#215 12 mm normal head bolts
+- **For the roof**: 4 &#215 12 mm <u>cone head</u> bolts
 - **For the circut board**: 4 &#215 male-female hexagonal standoffs with 13 mm body length and 5 mm screw length <u>and</u> 4 &#215 6 mm normal head bolts
 - **To attach the main bracing to the ServoHolder element**: 5 &#215 12 mm normal head bolts
 - **For the bumper**: 4 &#215 12 mm normal head bolts
@@ -20,7 +20,8 @@ Tables below present all screws you will need:
 | Number | Length | Cone head bolt? |
 | :----: | :----: |      :---:      |
 | 4      | 6      | No              |
-| 13     | 12     | No              |
+| 9      | 12     | No              |
+| 4      | 12     | Yes             |
 | 4      | 16     | Yes             |
 
 ### Nuts
@@ -34,6 +35,6 @@ Nuts to be implanted in ServoHolder:
 
 ## Assembly overview
 The finished robot should look like this:
-![Alt text](<Zrzut ekranu 2023-11-25 130742.png>)
-![Alt text](<Zrzut ekranu 2023-11-25 130710.png>)
+![Alt text](<Zrzut ekranu 2023-11-25 164746.png>)
+![Alt text](<Zrzut ekranu 2023-11-25 164702.png>)
 + lego wheels used in previous versions.
