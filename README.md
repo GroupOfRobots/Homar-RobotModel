@@ -17,11 +17,11 @@ All holes are designed to accept screws and standoffs with the diameter of 3 mm.
 
 ### Summary
 Tables below present all screws you will need:
-| Number | Length |
-| :----: | :----: |
-| 4      | 6      |
-| 13     | 12     |
-| 4      | 16     |
+| Number | Length | Cone head bolt? |
+| :----: | :----: |      :---:      |
+| 4      | 6      | No              |
+| 13     | 12     | No              |
+| 4      | 16     | Yes             |
 
 ### Nuts
 All aforementioned bolts (+ 4 for the battery and 4 for motors) will need nuts. This means 33 nuts in total. 17 of them will need to be implanted manually in the structure during the printing process.
