@@ -25,7 +25,7 @@ Tables below present all screws you will need:
 | 4      | 16     | Yes             |
 
 ### Nuts
-All aforementioned bolts (+ 4 for the battery and 4 for motors) will need nuts. This means 33 nuts in total. 17 of them will need to be implanted manually in the structure during the printing process.
+All aforementioned bolts (+ 4 for the battery and 4 for motors) will need nuts. This means 29 nuts in total. 17 of them will need to be implanted manually in the structure during the printing process.
 
 Nuts to be implanted in MainBraicing:
 ![Alt text](<Zrzut ekranu 2023-11-25 130904.png>)
