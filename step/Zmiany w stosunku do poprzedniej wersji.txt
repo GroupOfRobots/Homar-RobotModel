@@ -1,3 +1,0 @@
-Silnik - zmienił się model, musiałem poprawiać ze wzlgędu na zwymiarowanie klatki do mocowania silnika w talerzach
-Zderzak - był projektowany nowy, natomiast finalnie z Bartkiem i tak usunęliśmy główną modyfikację - na razie zostawiony 
-jest stary zderzak
