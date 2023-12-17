@@ -6,14 +6,15 @@ This repository contains 3D models of the robot used in the TwitchGo project.
 ## File organization
 The file organization has recently been changed. Currently on branch main there are three folders: step, stl and sldprt. Each contains files with the proper extention.
 Step and sldprt folders both contain a subfolder called "Non-print models" with models of the motors, servo, bearing, ballcasters etc. In sldprt, this folder also contains an assembly of all parts (except wheels for now).
+All three folders also contain a 'tests' subfolder which is intended for smaller prototype models that are not a finished part of the robot.
 
 ## Screws you will need
 All holes are designed to accept screws and standoffs with the diameter of 3 mm. However, the head and length differs depending on the parts that need to be joined. To be specific, you will need:
-- **For the roof**: 4 &#215 12 mm <u>cone head</u> bolts
-- **For the circut board**: 4 &#215 male-female hexagonal standoffs with 13 mm body length and 5 mm screw length <u>and</u> 4 &#215 6 mm normal head bolts
-- **To attach the main bracing to the ServoHolder element**: 5 &#215 12 mm normal head bolts
-- **For the bumper**: 4 &#215 12 mm normal head bolts
-- **For the scoop**: 4 &#215 16 mm <u>cone head</u> bolts
+- **For the roof**: 4 × 12 mm <ins>cone head</ins> bolts
+- **For the circut board**: 4 × male-female hexagonal standoffs with 13 mm body length and 5 mm screw length <ins>and</ins> 4 × 6 mm normal head bolts
+- **To attach the main bracing to the ServoHolder element**: 5 × 12 mm normal head bolts
+- **For the bumper**: 4 × 12 mm normal head bolts
+- **For the scoop**: 4 × 16 mm <ins>cone head</ins> bolts
 
 ### Summary
 Tables below present all screws you will need:
@@ -37,4 +38,4 @@ Nuts to be implanted in ServoHolder:
 The finished robot should look like this:
 ![Alt text](<Zrzut ekranu 2023-11-25 164746.png>)
 ![Alt text](<Zrzut ekranu 2023-11-25 164702.png>)
-+ lego wheels used in previous versions.
+and lego wheels used in previous versions which are for now not included i the assembly.
